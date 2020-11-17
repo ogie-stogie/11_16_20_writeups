@@ -1,10 +1,11 @@
 ### Team: 466 Crew
-[Link to md](https://github.com/tbart27/11_16_20_writeups/blob/main/README.md)<br>
 Taylor Bart<br>
 Kamal Nadesan<br>
 Matt Evans<br>
 John Tiffany<br>
 James Taylor<br>
+<br>
+[Link to md](https://github.com/tbart27/11_16_20_writeups/blob/main/README.md)<br>
 *Attempted multiple challenges from Hack for the troops and Affinity CTFs. (omitted Balsn and a student CTF in my report because I had no significant results from those challenges)*
 # Hack for the troops
 I was able to solve one web challenge in this CTF and learned a new trick about editing cookies.<br>
